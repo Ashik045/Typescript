@@ -32,4 +32,4 @@ let array1 = [3, "johndoe", { userId: 2323 }];
 
 let array2: [number, string, object] = [3, "johndoe", { userId: 2323 }];
 
-array1[1] = 23;
+// array1[1] = 23;
