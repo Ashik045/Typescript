@@ -24,7 +24,7 @@ const response11: APIResponse<object> = {
   },
 };
 
-console.log(response11);
+// console.log(response11);
 
 // Tuples in Typescript
 // like an array
