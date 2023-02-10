@@ -16,7 +16,7 @@ let user = addObject({
   username: "ashik045",
 });
 
-console.log(user);
+// console.log(user);
 
 // Generics with interface
 interface APIResponce<T> {
